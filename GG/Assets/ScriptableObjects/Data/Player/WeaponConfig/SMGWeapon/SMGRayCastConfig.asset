@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8506d80984526db47928fe3a2ae671fa, type: 3}
+  m_Name: SMGRayCastConfig
+  m_EditorClassIdentifier: 
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 41281
+  Distance: 200
+  ShotCount: 1
+  UseSpread: 1
+  SpreadFactorMin: 0.05
+  SpreadFactorMax: 0
+  HitEffectPrefab: {fileID: 3645902391203571977, guid: ddb9cbcf80210ac49969690f2fefa139, type: 3}
+  HitEffectEnemyPrefab: {fileID: 3645902391203571977, guid: c80ac1301cac3e6409cba8ff598bcdcb, type: 3}
+  HitEffectDestroyDelay: 1

@@ -3,24 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - EffectSound
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - AimPointPositin
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - Enemy
+  - PostProcessing
+  - Ragdoll
+  - Weapon
+  - UnShootable
+  - Wall
+  - SpawnArea
+  - StoneSurface
   - 
   - 
   - 
